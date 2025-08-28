@@ -1,9 +1,11 @@
 com\ecom\repository\UserRepository.class
+com\ecom\CorsConfig.class
 com\ecom\entity\OrderEntity.class
 com\ecom\repository\OrderRepository.class
 com\ecom\orderservice\UserService.class
 com\ecom\FsEcommerceApplication.class
 com\ecom\controller\UserController.class
+com\ecom\CorsConfig$1.class
 com\ecom\entity\UserEntity.class
 com\ecom\orderservice\OrderService.class
 com\ecom\controller\OrderController.class
