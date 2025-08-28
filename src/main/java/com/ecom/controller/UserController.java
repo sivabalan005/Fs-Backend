@@ -6,7 +6,6 @@ import com.ecom.entity.UserEntity;
 import com.ecom.orderservice.UserService;
 
 @RestController
-@CrossOrigin(origins = "https://ecommerce-rho-coral.vercel.app")
 @RequestMapping("/api/auth")
 public class UserController {
 
