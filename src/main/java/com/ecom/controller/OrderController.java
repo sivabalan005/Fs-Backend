@@ -10,7 +10,6 @@ import com.ecom.entity.OrderEntity;
 import com.ecom.orderservice.OrderService;
 
 @RestController
-@CrossOrigin(origins = "https://ecommerce-rho-coral.vercel.app")
 @RequestMapping("/api/orders")
 public class OrderController {
 
